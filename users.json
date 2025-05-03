@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "password": "$2a$10$Jh3YXITdGUp3k8zn17.lzOa6kkDNFk7OMpGZDnQWBVzYu6tpGcjuC",
+    "secret": "FLAG{hamza-ENSIAS}",
+    "description": "<script>alert(document.cookie)</script>\r\n"
+  },
+  {
+    "username": "hamza",
+    "password": "$2a$10$eABV3ewGsq/4tm2FpTQp6.JYwgEtJvwvF0E4tIkdaohlXCy2XN/0O",
+    "secret": "FLAG{hamza}",
+    "description": "help "
+  },
+  {
+    "username": "ali",
+    "password": "$2a$10$fydcKRW.RzmcX53Y.rdFg.89VkwDBPNaEhXzCnpLZguPvL.3d50tC",
+    "secret": "FLAG{hamza-ENSIAS}",
+    "description": "<script>alert(document.cookie)</script>"
+  }
+]
